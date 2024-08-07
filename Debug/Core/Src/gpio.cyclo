@@ -1,0 +1,2 @@
+../Core/Src/gpio.c:68:6:MX_GPIO_Init	1
+../Core/Src/gpio.c:280:6:MX_GPIO2Init	1
