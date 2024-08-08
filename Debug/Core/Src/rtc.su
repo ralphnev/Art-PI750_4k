@@ -1,4 +1,4 @@
 ../Core/Src/rtc.c:30:6:MX_RTC_Init	32	static
-../Core/Src/rtc.c:89:6:HAL_RTC_MspInit	208	static
-../Core/Src/rtc.c:116:6:HAL_RTC_MspDeInit	16	static
-../Core/Src/rtc.c:133:6:MX_RTC_InitAlt	8	static
+../Core/Src/rtc.c:111:6:HAL_RTC_MspInit	208	static
+../Core/Src/rtc.c:138:6:HAL_RTC_MspDeInit	16	static
+../Core/Src/rtc.c:155:6:MX_RTC_InitAlt	8	static

@@ -27,6 +27,7 @@
 #include "fatfs.h"
 #include "i2c.h"
 #include "mdma.h"
+#include "memorymap.h"
 #include "rtc.h"
 #include "sdmmc.h"
 #include "tim.h"
